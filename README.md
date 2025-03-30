@@ -3,17 +3,15 @@
 Fynk is a full-stack social media application built with modern web technologies, enabling seamless interactions, authentication, and real-time updates.
 
 ## Table of Contents
-- [Fynk](#fynk)
-  - [Table of Contents](#table-of-contents)
-  - [Getting Started](#getting-started)
-  - [Features](#features)
-  - [Technologies Used](#technologies-used)
-  - [Environment Variables](#environment-variables)
-  - [Security Considerations](#security-considerations)
-  - [Frontend Implementation](#frontend-implementation)
-  - [Backend Implementation](#backend-implementation)
-  - [Deployment](#deployment)
-  - [Contributing](#contributing)
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Environment Variables](#environment-variables)
+- [Security Considerations](#security-considerations)
+- [Frontend Implementation](#frontend-implementation)
+- [Backend Implementation](#backend-implementation)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
 
 ## Getting Started
 
